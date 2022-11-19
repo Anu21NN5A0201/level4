@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+img {
+  max-width: 100%;
+  height: auto;
+}
+</style>
+</head>
+<body>
+
+<h2>Anupama Parameswaran</h2>
+
+<p>Anupama is Beautiful.</p>
+<p>Anupama is good actor:</p>
+
+<img src="https://static.javatpoint.com/biography/images/anupama-parameswaran.png">
+
+</body>
+</html>
